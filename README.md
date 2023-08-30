@@ -1,6 +1,6 @@
 # CS-340
 
-A Dash web application that interacts with an Animal Shelter database and displays information using data tables, charts, and a geolocation map. This is a comprehensive code, and it seems to be well-structured. Here's a brief overview of what the code does:
+A Dash web application that interacts with an Animal Shelter database and displays information using data tables, charts, and a geolocation map. Here's a brief overview of what the code does:
 
 The code imports necessary libraries and modules such as Dash components, Plotly, Pandas, and the AnimalShelter module.
 
